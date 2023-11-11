@@ -1,0 +1,7 @@
+{
+  "data1": "value1",
+  "data2": "value2",
+ "anotherData": {
+   "idk" : "haha"
+}
+}
